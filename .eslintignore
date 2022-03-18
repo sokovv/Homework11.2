@@ -1,0 +1,11 @@
+dist
+coverage
+docs
+basic.js
+BasicTest.js
+GameSavingLoader.js
+parser.js
+reader.js
+app.js
+Team.js
+Person.js
